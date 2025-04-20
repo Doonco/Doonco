@@ -3,7 +3,6 @@
 데이터 기반으로 문제를 해결하는 것을 좋아하는 데이터 분석가이자,  
 확장 가능하고 효율적인 데이터 파이프라인을 설계하는 데 관심 있는 데이터 엔지니어링 직무 희망자입니다.
 
-Year Dream School 2025.03.17 ~ 수강 중
 
 ---
 
@@ -31,7 +30,6 @@ Year Dream School 2025.03.17 ~ 수강 중
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooncoder1220)](https://solved.ac/dooncoder1220/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dooncoder1220)](https://solved.ac/dooncoder1220/)
 
 ---
 
@@ -46,13 +44,12 @@ Year Dream School 2025.03.17 ~ 수강 중
 ---
 
 ### 📫 연락처 & 블로그
-- 📧 Email: your.email@example.com  
+- 📧 Email: gmlehgus@naver.com  
 - 📝 Blog: [yourblog.com](https://yourblog.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
 ---
 
 ### 🔍 현재
+- 🖥️ Year Dream School 2025.03.17 ~ 
 - 📚 공부 중: `dbt`, `MLOps`, `Kafka`
 - 🚀 목표: 데이터 흐름을 이해하고 자동화하는 능력을 갖춘 분석형 엔지니어 되기
 
