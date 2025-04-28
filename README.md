@@ -37,7 +37,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [이커머스 데이터 분석](링크) | 고객 행동 분석 및 추천 시스템 설계 | Python, SQL, Tableau |
+| [알파벳 손글씨 클러스터링](https://github.com/Doonco/Alphabet-Clustering) | 고객 행동 분석 및 추천 시스템 설계 | Python, SQL, Tableau |
 | [ETL 파이프라인 구축](링크) | Airflow 기반 데이터 파이프라인 설계 및 운영 | Airflow, Docker, AWS |
 | [기상 데이터 시각화 대시보드](링크) | 공공 API 활용 대시보드 개발 | Dash, Plotly, REST API |
 
