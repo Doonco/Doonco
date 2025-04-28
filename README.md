@@ -20,13 +20,7 @@
 `Python` `SQL` `R`
 
 **Data Analysis / Visualization**  
-`pandas` `numpy` `matplotlib` `seaborn` `plotly` `dash` `Tableau`
-
-**Data Engineering**  
-`Airflow` `DBT` `Spark` `Kafka` `PostgreSQL` `BigQuery` `Redshift`
-
-**Cloud & DevOps**  
-`AWS (S3, Lambda, Athena)` `Docker` `GitHub Actions`
+`pandas` `numpy` `matplotlib` `seaborn`
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooncoder1220)](https://solved.ac/dooncoder1220/)
 
@@ -37,20 +31,17 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
-| [알파벳 손글씨 클러스터링](https://github.com/Doonco/Alphabet-Clustering) | 고객 행동 분석 및 추천 시스템 설계 | Python, SQL, Tableau |
-| [ETL 파이프라인 구축](링크) | Airflow 기반 데이터 파이프라인 설계 및 운영 | Airflow, Docker, AWS |
-| [기상 데이터 시각화 대시보드](링크) | 공공 API 활용 대시보드 개발 | Dash, Plotly, REST API |
+| [손글씨 클러스터링](https://github.com/Doonco/Alphabet-Clustering) | 손으로 쓴 알파벳 군집분석 | Python |
+| [댓글 토픽모델링](링크) | 반려동물 보유세 도입 관련 유튜브 댓글 토픽모델링 | R |
 
 ---
 
 ### 📫 연락처 & 블로그
 - 📧 Email: gmlehgus@naver.com  
-- 📝 Blog: [yourblog.com](https://yourblog.com)  
 ---
 
 ### 🔍 현재
 - 🖥️ Year Dream School 2025.03.17 ~ 
-- 📚 공부 중: `dbt`, `MLOps`, `Kafka`
 - 🚀 목표: 데이터 흐름을 이해하고 자동화하는 능력을 갖춘 분석형 엔지니어 되기
 
 
