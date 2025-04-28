@@ -32,7 +32,7 @@
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|-----------|
 | [손글씨 클러스터링](https://github.com/Doonco/Alphabet-Clustering) | 손으로 쓴 알파벳 군집분석 | Python |
-| [댓글 토픽모델링](링크) | 반려동물 보유세 도입 관련 유튜브 댓글 토픽모델링 | R |
+| [댓글 토픽모델링](https://github.com/Doonco/TopicModeling) | 반려동물 보유세 도입 관련 유튜브 댓글 토픽모델링 | R |
 
 ---
 
