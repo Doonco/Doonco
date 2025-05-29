@@ -21,9 +21,9 @@
 
 **Data Analysis / Visualization**  
 `pandas` `numpy` `matplotlib` `seaborn`
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dooncoder1220)](https://solved.ac/dooncoder1220/)
-
+-->
 
 ---
 
