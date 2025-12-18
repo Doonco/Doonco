@@ -19,7 +19,7 @@
 **Languages**  
 `Python` `SQL` `R`
 
-** Data Engineering **  
+**Data Engineering**  
 `Spark` `Airflow` `Kafka` `Docker` `AWS`
 
 **Tools**  
